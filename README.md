@@ -1,13 +1,13 @@
-# `🧿HADES-BOT-OMEGA🧿`
+# `🧿𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭🧿`
 
 ### `🏓DUDAS SOBRE EL BOT?, CONTACTANOS🍁`
-<a href="http://wa.me/5212411719888" target="blank"><img src="https://img.shields.io/badge/OFC-YOVANI_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/5212411347465" target="blank"><img src="https://img.shields.io/badge/OFC-YOVANI_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/51935763050" target="blank"><img src="https://img.shields.io/badge/𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭-CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/51935763050" target="blank"><img src="https://img.shields.io/badge/𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭-CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ### `⛄ GRUPO DE INFORMACIÓN DEL BOT Y ACTUALIZACIONES🧿`
 
-<a href="https://chat.whatsapp.com/LGvb0X9GJM0LXE6yvWIE6x" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/KnQXMl0VGec71K9K42Vaon" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 > LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS-BOTS
 
@@ -70,7 +70,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/OFC-YOVANI/HADES-BOT-OMEGA.git && cd HADES-BOT-OMEGA
+git clone https://github.com/Geral-Bot/prueba.git && cd prueba
 ```
 
 ```bash
