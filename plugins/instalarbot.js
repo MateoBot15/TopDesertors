@@ -18,10 +18,10 @@ let rtotalreg = Object.values(global.db.data.users).filter(user => user.register
 let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = `╭「➻❥𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰➻❥」
+let str = `╭「 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 」
 │➯ *𝗛ᴏʟᴀ,➟${taguser}
-│➯ *ᴏᴡɴᴇʀ:ᴏғᴄ➟ʏᴏᴠᴀɴɪ
-│➯ **Número*➟5212412377467
+│➯ *ᴏᴡɴᴇʀ:ᴏғᴄ➟𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭
+│➯ **Número*➟51935763050
 │➯ **canal-YouTube*
 │➯ *https://youtube.com/@hades_bot2391
 │➯ *ғᴇᴄʜᴀ:➟${date}
@@ -38,7 +38,7 @@ let str = `╭「➻❥𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰➻
 ╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
 ╭「➻❥Número para ayuda➻❥」
-│➯Wa.me/5212412377467
+│➯Wa.me/51935763050
 ╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
 ╭「➻❥ *📽️tutorial* ➻❥」
@@ -49,7 +49,7 @@ let str = `╭「➻❥𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰➻
 │➯opción 1 estos comandos son para los que no pudieron hacer con los comandos normales estos comandos lo van a instalar solito 
 │➯termux-setup-storage
 │➯pkg update -y && pkg upgrade -y && pkg install -y bash && pkg install -y wget && pkg install yarn
-│➯wget -O - https://raw.githubusercontent.com/OFC-YOVANI/HADES-BOT-OMEGA/master/install.sh | bash
+│➯wget -O - https://raw.githubusercontent.com/GeralBot/prueba/master/install.sh | bash
 ╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
 ╭「➻❥𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚃𝙴𝚁𝙼𝚄𝚇➻❥」
@@ -57,7 +57,7 @@ let str = `╭「➻❥𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰➻
 │➯cd && termux-setup-storage
 │➯apt-get update -y && apt-get upgrade -y
 │➯pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn 
-│➯git clone https://github.com/OFC-YOVANI/HADES-BOT-OMEGA.git && cd HADES-BOT-OMEGA
+│➯git clone https://github.com/GeralBot/prueba.git && cd HADES-BOT-OMEGA
 │➯yarn 
 │➯npm install
 │➯npm update
@@ -65,12 +65,12 @@ let str = `╭「➻❥𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰➻
 ╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
 ╭「➻❥ *ACTIVAR* ➻❥」
-│➯cd HADES-BOT-OMEGA
+│➯cd prueba
 │➯npm start
 ╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
 ╭「➻❥ *pide otro código* ➻❥」
-│➯cd HADES-BOT-OMEGA
+│➯cd prueba
 │➯rm -rf Session-activa
 │➯npm start
 ╰───────────────╯`.trim()

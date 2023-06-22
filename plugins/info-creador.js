@@ -3,13 +3,13 @@ var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.present
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let text = `╭─「➻❥ *owner* ➻❥」
 │➯ ⫷᭄©𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰﹏✍
-│➯Wa.me/5212412377467 (CREADOR)
-│➯Wa.me/5212411261883 (CREADOR) 
-│➯Wa.me/5212411719888 (CREADOR)
-│➯Wa.me/5212411347465 (CREADOR)
+│➯Wa.me/51935763050 (CREADOR)
+│➯Wa.me/51935763050 (CREADOR) 
+│➯Wa.me/51935763050 (CREADOR)
+│➯Wa.me/51935763050  (CREADOR)
 ╰───────────────╯`.trim()   
 let buttonMessage= {
-'document': { url: `https://github.com/OFC-YOVANI/HADES-BOT-OMEGA` },
+'document': { url: `https://github.com/GeralBot/prueba` },
 'mimetype': `application/${document}`,
 'fileName': `⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍`,
 'fileLength': 99999999999999,
@@ -18,7 +18,7 @@ let buttonMessage= {
 'forwardingScore': 200,
 'isForwarded': true,
 'externalAdReply': {
-'mediaUrl': 'https://github.com/OFC-YOVANI/HADES-BOT-OMEGA',
+'mediaUrl': 'https://github.com/GeralBot/prueba',
 'mediaType': 2,
 'previewType': 'pdf',
 'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
