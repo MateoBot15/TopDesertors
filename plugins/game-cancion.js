@@ -6,10 +6,10 @@ let handler = async (m, { conn, usedPrefix }) => {
 conn.tebaklagu = conn.tebaklagu ? conn.tebaklagu : {}
 let id = m.chat
 if (id in conn.tebaklagu) {
-conn.reply(m.chat, 'Todavía hay canciones sin respuesta en este chat.\n There are still unanswered songs in this chat.', conn.tebaklagu[id][0])
+conn.reply(m.chat, 'Todavía hay canciones sin respuesta en este chat.', conn.tebaklagu[id][0])
 throw false
 } //5LTV57azwaid7dXfz5fzJu
-let res = await fetchJson(`https://raw.githubusercontent.com/GeralBot/prueba/master/src/hades/tebaklagu.json`)
+let res = await fetchJson(`https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/src/JSON/tebaklagu.json`)
 let json = res[Math.floor(Math.random() * res.length)]    
 let caption = `
 ADIVINA EL TITULO DE LA CANCION
@@ -31,7 +31,6 @@ if (!aa) return conn.sendFile(m.chat, json.link_song, 'coba-lagi.mp3', '', m)
 handler.help = ['tebaklagu']
 handler.tags = ['game']
 handler.command = /^cancion|canción$/i
-handler.register = true
 export default handler
 async function fetchJson(url, options) {
 try {
