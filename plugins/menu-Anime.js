@@ -18,7 +18,7 @@ let rtotalreg = Object.values(global.db.data.users).filter(user => user.register
 let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = `╭「𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 」
+let str = `╭「 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 」
 │➯𝗛ᴏʟᴀ,➟${taguser}
 │➯ᴏᴡɴᴇʀ:ᴏғᴄ➟𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭
 │➯*Número*➟51935763050
