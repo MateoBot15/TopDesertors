@@ -11,7 +11,7 @@ let text = `╭─「➻❥ *owner* ➻❥」
 let buttonMessage= {
 'document': { url: `https://github.com/GeralBot/prueba` },
 'mimetype': `application/${document}`,
-'fileName': `⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍`,
+'fileName': `𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 ✍`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
