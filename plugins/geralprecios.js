@@ -26,17 +26,17 @@ let str = `╭「𝙿𝚁𝙴𝙲𝙸𝙾𝚂 𝙳𝙴 𝙶𝙴𝚁𝙰𝙻-𝙱
 ︎╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
 ╭「𝐏𝐑𝐄𝐂𝐈𝐎𝐒 𝐃𝐄 𝐏𝐀𝐐𝐔𝐄𝐓𝐄 𝐃𝐄 𝐁𝐎𝐓𝐒 𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐀𝐃𝐎𝐒」
-💌Bot Permanente : 🇵🇪10 Yape🇨🇱 3000 Ctu Rut🇦🇷1000 Cbu🇧🇴Tigo 20🇲🇽70 MX 🇨🇴13000💎 300
+💌Bot Mensual : 🇵🇪10 Yape🇨🇱 3000 Ctu Rut🇦🇷1000 Cbu🇧🇴Tigo 20🇲🇽70 MX 🇨🇴13000💎 300
 
-💌Bot Personalizado : 🇵🇪15 Yape🇨🇱4500 Ctu Rut🇦🇷1500 Cbu🇧🇴Tigo 30🇲🇽110 MX 🇨🇴19500💎500
+💌Bot Permanente : 🇵🇪15 Yape🇨🇱4500 Ctu Rut🇦🇷1500 Cbu🇧🇴Tigo 30🇲🇽110 MX 🇨🇴19500💎500
 
-💌Bot Propio : 🇵🇪20 Yape🇨🇱6000 Ctu Rut 🇦🇷2000 Cbu🇧🇴Tigo 39🇲🇽150 MX🇨🇴26000💎700
+💌Bot Personalizado : 🇵🇪20 Yape🇨🇱6000 Ctu Rut 🇦🇷2000 Cbu🇧🇴Tigo 39🇲🇽150 MX🇨🇴26000💎800
 
-💌Bot IZN : 🇵🇪25 Yape🇨🇱7000 Ctu Rut 🇦🇷2500 Cbu🇧🇴Tigo 50🇲🇽200 MX🇨🇴3200💎800
+💌Bot Propio : 🇵🇪25 Yape🇨🇱7000 Ctu Rut 🇦🇷2500 Cbu🇧🇴Tigo 50🇲🇽200 MX🇨🇴3200💎1000
 ╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
 ╭「𝐏𝐑𝐄𝐂𝐈𝐎𝐒 𝐃𝐄 𝐁𝐎𝐓𝐂𝐈𝐓𝐎𝐒 𝐏𝐀𝐑𝐀 𝐆𝐑𝐔𝐏𝐎𝐒」
-│💌BOT MENSUAL : 🇵🇪5 Yape 🇦🇷 500 CBU 🇨🇱 1500 Ctu Rut 🇧🇴Tigo 12  💎 200
+│💌BOT MENSUAL : 🇵🇪10 Yape🇨🇱 3000 Ctu Rut🇦🇷1000 Cbu🇧🇴Tigo 20🇲🇽70 MX 🇨🇴13000💎 300
 │💌BOT TRIMESTRAL : 🇵🇪15 Yape 🇦🇷 1500 CBU 🇨🇱 4500 Ctu Rut 🇧🇴Tigo 36  💎 500
 │💌BOT PERMANENTE : 🇵🇪20 Yape🇨🇱6000 Ctu Rut 🇦🇷2000 Cbu🇧🇴Tigo 39🇲🇽150 MX🇨🇴26000💎700
 │💌BOT PERMANENTE PLUS :🇵🇪25 Yape🇨🇱7000 Ctu Rut 🇦🇷2500 Cbu🇧🇴Tigo 50🇲🇽1800 MX🇨🇴35000💎800
