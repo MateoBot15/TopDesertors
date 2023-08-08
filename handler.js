@@ -1141,7 +1141,7 @@ if (m.text && user.banned && !isROwner) {
     const messageNumber = user.bannedMessageCount + 1;
     const messageText = `❰ ⚠️ ❱ *ESTAS BANEADO/A* ❰ ⚠️ ❱\nAviso ${messageNumber}/3 (${messageNumber} de 3)${user.bannedReason ? `\n*Motivo:* *${user.bannedReason}*` : ''}
 *👉 Puedes contactar a la propietaria del Bot si crees que se trata de un error (TENER PRUEBAS) para tratar el motivo de tú desbaneo*
-👉 wa.me/51929741688
+👉 wa.me/5193576350
 `.trim();
     
     //m.reply(messageText);
@@ -1435,7 +1435,7 @@ export async function callUpdate(callUpdate) {
     let callmsg = await this.reply(nk.from, `Hola *@${nk.from.split('@')[0]}*, las ${nk.isVideo ? 'videollamadas' : 'llamadas'} no están permitidas, serás bloqueado.\n-\nSi accidentalmente llamaste póngase en contacto con mi creador para que te desbloquee!`, false, { mentions: [nk.from] })
     //let data = global.owner.filter(([id, isCreator]) => id && isCreator)
     //await this.sendContact(nk.from, data.map(([id, name]) => [id, name]), false, { quoted: callmsg })
-    let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ✍;;;\nFN:𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ✍\nORG:𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ✍\nTITLE:\nitem1.TEL;waid=51935763050:+51 935 763 050\nitem1.X-ABLabel:𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ✍\nX-WA-BIZ-DESCRIPTION:[❗] ᴄᴏɴᴛᴀᴄᴛᴀ ᴀ ᴇsᴛᴇ ɴᴜᴍ ᴘᴀʀᴀ ᴄᴏsᴀs ɪᴍᴘᴏʀᴛᴀɴᴛᴇs.\nX-WA-BIZ-NAME:𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ✍\nEND:VCARD`
+    let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ✍;;;\nFN:𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ✍\nORG:𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ✍\nTITLE:\nitem1.TEL;waid=51929741688+51 929 741 688\nitem1.X-ABLabel:𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ✍\nX-WA-BIZ-DESCRIPTION:[❗] ᴄᴏɴᴛᴀᴄᴛᴀ ᴀ ᴇsᴛᴇ ɴᴜᴍ ᴘᴀʀᴀ ᴄᴏsᴀs ɪᴍᴘᴏʀᴛᴀɴᴛᴇs.\nX-WA-BIZ-NAME:𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ✍\nEND:VCARD`
     await this.sendMessage(nk.from, { contacts: { displayName: '𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 ✍', contacts: [{ vcard }] }}, {quoted: callmsg})
     await this.updateBlockStatus(nk.from, 'block')
     }
@@ -1485,7 +1485,7 @@ global.dfail = (type, m, conn) => {
         restrict: '*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓𝐀 ⚠️ ] 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝙴𝚂𝚃𝙰 𝚁𝙴𝚂𝚃𝚁𝙸𝙽𝙶𝙸𝙳𝙾/𝙳𝙴𝚂𝙰𝙲𝚃𝙸𝚅𝙰𝙳𝙾 𝙿𝙾𝚁 𝙳𝙴𝚂𝙸𝙲𝙸𝙾𝙽 𝙳𝙴𝙻 𝙿𝚁𝙾𝙿𝙸𝙴𝚃𝙰𝚁𝙸𝙾/𝙰 (𝙾𝚆𝙽𝙴𝚁) 𝙳𝙴𝙻 𝙱𝙾𝚃*\n\n\n[ ⚠️ 𝐀𝐋𝐄𝐑𝐓𝐀 ⚠️ ]*THIS COMMAND IS REGISTERED/DISABLED BY DECISION OF THE OWNER OF THE BOT*'
          }[type]
     let aa = { quoted: m, userJid: conn.user.jid }
-    let prep = generateWAMessageFromContent(m.chat, { extendedTextMessage: { text: msg, contextInfo: { externalAdReply: { title: '[ ⚠ ] 𝐀𝐕𝐈𝐒𝐎 - 𝐀𝐋𝐄𝐑𝐓𝐀', body: '𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭' , thumbnail: imagen1, sourceUrl: 'https://instagram.com/mateo_ventas_?igshid=NTc4MTIwNjQ2YQ==' }}}}, aa)
+    let prep = generateWAMessageFromContent(m.chat, { extendedTextMessage: { text: msg, contextInfo: { externalAdReply: { title: '[ ⚠ ] 𝐀𝐕𝐈𝐒𝐎 - 𝐀𝐋𝐄𝐑𝐓𝐀', body: 'Mateo Bot' , thumbnail: imagen1, sourceUrl: 'https://instagram.com/mateo_ventas_?igshid=NTc4MTIwNjQ2YQ==' }}}}, aa)
     if (msg) return conn.relayMessage(m.chat, prep.message, { messageId: prep.key.id })
     //if (msg) return m.reply(msg)
 }
