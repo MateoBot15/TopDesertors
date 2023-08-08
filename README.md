@@ -1,19 +1,19 @@
-# `🧿𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭🧿`
+# `🧿𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭🧿`
 
 ### `🏓DUDAS SOBRE EL BOT?, CONTACTANOS🍁`
-<a href="http://wa.me/51935763050" target="blank"><img src="https://img.shields.io/badge/𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭-CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/51935763050" target="blank"><img src="https://img.shields.io/badge/𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭-CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/51929741688" target="blank"><img src="https://img.shields.io/badge/𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭-CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/51929741688" target="blank"><img src="https://img.shields.io/badge/𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭-CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ### `⛄ GRUPO DE INFORMACIÓN DEL BOT Y ACTUALIZACIONES🧿`
 
-<a href="https://chat.whatsapp.com/BCcSa1tr6796Ieu0GeimcV" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf" target="blank"><img src="https://img.shields.io/badge/MATEO VENTAS-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 > LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS-BOTS
 
 ### `—◉ 🤖 BOTS OFICIALES 🤖`
 
-<a href="https://api.whatsapp.com/send/?phone=51935763050&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/prueba.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send/?phone=51929741688&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/prueba.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
  > NO SPAMEAR COMANDOS
 
@@ -29,14 +29,14 @@
 
 ### `—◉ 💥 ACTIVAR EN KOYEB 💥`
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/OFC-YOVANI/HATSUNE-MIKU&branch=master&name=Hatsunemikubot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/MateoBot15/HATSUNE-MIKU&branch=master&name=Hatsunemikubot)
 
 ### `—◉ ✨ ACTIVAR EN HEROKU ✨`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OFC-YOVANI/HATSUNE-MIKU)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MateoBot15/HATSUNE-MIKU)
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/OFC-YOVANI/HATSUNE-MIKU/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/OFC-YOVANI/HATSUNE-MIKU/blob/master/config.js)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/MateoBot15/prueba/HATSUNE-MIKU/fork)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/MateoBot15/prueba/blob/master/config.js)
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾
 PRIMERA OPCIÓN `
@@ -50,7 +50,7 @@ pkg update -y && pkg upgrade -y && pkg install -y bash && pkg install -y wget &&
 ```
 
 ```bash
-wget -O - https://raw.githubusercontent.com/GeralBot/prueba/master/install.sh | bash
+wget -O - https://raw.githubusercontent.com/MateoBot15prueba/master/install.sh | bash
 ```
 
 
@@ -94,7 +94,7 @@ npm start
 ### `ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:`
 
 ```bash
-> cd HADES-BOT-OMEGA
+> cd prueba
 ```
 
 ```bash
@@ -102,12 +102,12 @@ npm start
 ```
 
 ### `—◉ 👽 OBTENER OTRO CODIGO QR EN TERMUX 👽`
- DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A HADES-BOT-MD $`
+ DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A Mateo Bot $`
 
 ### `ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:`
 
 ```bash
-> cd HADES-BOT-OMEGA
+> cd prueba
 ```
 
 ```bash
