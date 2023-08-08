@@ -14,7 +14,7 @@ COMMENT
 echo -e "\033[01;93mPreparando instalación...\n\033[0m"
 mp3_array=("install_automatic1.mp3" "install_automatic2.mp3" "install_automatic3.mp3" "install_automatic4.mp3" "install_automatic5.mp3" "install_automatic6.mp3" "install_automatic7.mp3" "install_automatic8.mp3")
 random_mp3=${mp3_array[$RANDOM % ${#mp3_array[@]}]}
-if wget -q https://github.com/OFC-YOVANI/HADES-BOT-OMEGA/raw/master/audio/"$random_mp3"; then
+if wget -q https://github.com/MateoBot15/mateo15/raw/master/audio/"$random_mp3"; then
 echo -e "\033[01;32mDescarga exitosa. Reproduciendo sonido de intro...\n\033[0m"
 mpv --no-terminal "$random_mp3" &
 else
@@ -160,7 +160,7 @@ echo -e "\e[35m
 ─────────────────────────────────────────────────────────\n\e[0m"
 
 echo -e "\033[1;35m"
-git clone https://github.com/OFC-YOVANI/HADES-BOT-OMEGA.git
+git clone https://github.com/MateoBot15/mateo15.git
 echo -e "\033[01;32m\033[01mLa clonación se ha descargado e instalado correctamente.\nThe clone has been downloaded and installed successfully.\n\033[0m"
 
 echo -e "\033[01;32m\033[01mCambiando al directorio del repositorio!!\nChanging to the repository directory!!\n\033[0m" 
@@ -218,7 +218,7 @@ v1="${b}\033[32m"
 b="\033[0m"
 
 menu() {
-	#HADES-BOT-OMEGA
+	#Mateo Bot
 	echo -e "${v1} MENÚ DE CONFIGURACIÓN"
 	printf "\n"
 	printf "${v1}[${b}01${v1}]${v} Visistar Grupo de Actualizaciones\n"
@@ -232,11 +232,11 @@ menu() {
 }
 
 menu_ayuda() {
-    #printf "${v1}[${b}++${v1}]${v} HADES-BOT-OMEGA${b}: "
+    #printf "${v1}[${b}++${v1}]${v} Mateo Bot${b}: "
 	read opcion
 	case $opcion in
             01|1)
-                am start -a android.intent.action.VIEW https://chat.whatsapp.com/JESaesjOEcB6wnGX0QYT9o &>> /dev/null
+                am start -a android.intent.action.VIEW https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf &>> /dev/null
                 echo -e "${b}[${v1}++${b}]${v} Accediendo al Grupo Oficial\n"
                 
                 ;;
@@ -294,5 +294,5 @@ _______░▒▓██
 _____░▒▓██\n\e[0m"
     
 sleep 15 && pkill mpv > /dev/null 2>&1 && sleep 2 && rm -f /data/data/com.termux/files/home/"$random_mp3" &
-echo -e "\033[01;32m\033[01mIniciando HADES-BOT-OMEGA!!\n\033[0m"
+echo -e "\033[01;32m\033[01mIniciando Mateo Bot!!\n\033[0m"
 npm start

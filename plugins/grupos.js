@@ -1,7 +1,7 @@
 import fetch from 'node-fetch'
 let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, isPrems }) => {
 try {
-await m.reply(`╭「 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 」\n│➯(♦️)*PUEDES ENTRAR A LOS GRUPOS O VISITAR NUESTRAS PÁGINAS OFICIALES ESO NOS AYUDARÍA MUCHO*\n︎╰───────────────╯\n\n\n╭「 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 」\n│➯(♦️)*YOU CAN ENTER THE GROUPS OR VISIT OUR OFFICIAL PAGES YOU WOULD HELP US A LOT WITH THAT$\n︎╰───────────────╯`)
+await m.reply(`╭「 𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 」\n│➯(♦️)*PUEDES ENTRAR A LOS GRUPOS O VISITAR NUESTRAS PÁGINAS OFICIALES ESO NOS AYUDARÍA MUCHO*\n︎╰───────────────╯\n\n\n╭「 𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭  」\n│➯(♦️)*YOU CAN ENTER THE GROUPS OR VISIT OUR OFFICIAL PAGES YOU WOULD HELP US A LOT WITH THAT$\n︎╰───────────────╯`)
 let pp = imagen1
 let vn = './Audios/naa.mp3'
 let img = await(await fetch('https://i.imgur.com/JP52fdP.jpg')).buffer()
@@ -18,10 +18,10 @@ let rtotalreg = Object.values(global.db.data.users).filter(user => user.register
 let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = `╭「 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 」
+let str = `╭「 𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 」
 │➯𝗛ᴏʟᴀ,➟${taguser}
-│➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:Geral-Bot
-│➯ *𝙸𝙽𝙵𝙾: Wa.me/51935763050
+│➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:𝙼𝚊𝚝𝚎𝚘 𝙱𝚘𝚝
+│➯ *𝙸𝙽𝙵𝙾: Wa.me/51929741688
 │➯ *Yape: 900711258
 │➯ғᴇᴄʜᴀ:➟${date}
 │➯ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:➟${uptime}
@@ -29,22 +29,16 @@ let str = `╭「 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 」
 ︎╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
 ╭「➻❥*Grupos y cuentas*➻❥」
-│➯𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰
-│➯https://chat.whatsapp.com/KnQXMl0VGec71K9K42Vaon
-│➯𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰
-│➯https://chat.whatsapp.com/KnQXMl0VGec71K9K42Vaon
-│➯𝙷𝙰𝚃𝚂𝚄𝙽𝙴-𝙼𝙸𝙺𝚄-𝚄𝙻𝚃𝚁𝙰
-│➯https://chat.whatsapp.com/BuloWd29LSnDZHXtUJDybF
+│➯𝙷𝙰𝙳𝙴𝚂-𝙼𝚊𝚝𝚎𝚘 𝙱𝚘𝚝
+│➯https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf
+│➯𝙷𝙰𝙳𝙴𝚂-𝙼𝚊𝚝𝚎𝚘 𝙱𝚘𝚝
+│➯https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf
+│➯𝙷𝙰𝙳𝙴𝚂-𝙼𝚊𝚝𝚎𝚘 𝙱𝚘𝚝
+│➯https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf
 │➯𝚙á𝚐𝚒𝚗𝚊 𝚍𝚎 𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔
 │➯https://www.facebook.com/groups/987464505464904/?ref=share
-│➯𝚌𝚊𝚗𝚊𝚕 𝚍𝚎 𝚈𝚘𝚞𝚃𝚞𝚋𝚎
-│➯https://youtube.com/@hades_bot2391
-│➯𝚌𝚊𝚗𝚊𝚕 𝚍𝚎 𝚍𝚒𝚜𝚌𝚘𝚛𝚍 
-│➯https://discord.gg/nQVWW6xv
 │➯INSTAGRAM
-│➯https://instagram.com/ofc.yovani.bot?igshid=ZDc4ODBmNjlmNQ==
-│➯KIKTOK
-│➯https://vm.tiktok.com/ZM2rbFWnr/
+│➯https://instagram.com/mateo_ventas_?igshid=NTc4MTIwNjQ2YQ==
 ︎╰───────────────╯`.trim()
 if (m.isGroup) {
 await conn.sendFile(m.chat, vn, 'naa.mp3', null, m, true, { type: 'audioMessage', ptt: true})
