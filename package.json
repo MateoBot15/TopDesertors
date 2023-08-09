@@ -1,30 +1,30 @@
 {
-    "name": "HADES-BOT-OMEGA",
-    "version": "1.0.0",
-    "description": "SUSCRÍBETE A NUESTRO CANAL DE YOUTUBE HADES-BOT",
-    "main": "index.js",
-    "type": "module",
-    "directories": {
-        "lib": "lib",
-        "src": "src",
-        "plugins": "plugins"
-    },
-    "scripts": {
-        "start": "node index.js",
-        "test": "node test.js",
-        "test2": "nodemon index.js"
-    },
-    "homepage": "https://github.com/OFC-YOVANI/HADES-BOT-OMEGA",
-    "author": {
-        "name": "OFC-YOVANI"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/OFC-YOVANI/HADES-BOT-OMEGA.git"
-    },
-    "bugs": {
-        "url": "https://github.com/OFC-YOVANI/HADES-BOT-OMEGA/issues"
-    },
+"name": "HADES-BOT-OMEGA",
+"version": "1.0.0",
+"description": "SUSCRÍBETE A NUESTRO CANAL DE YOUTUBE HADES-BOT",
+"main": "index.js",
+"type": "module",
+"directories": {
+ "lib": "lib",
+"src": "src",
+"plugins": "plugins"
+},
+"scripts": {
+"start": "node index.js",
+"test": "node test.js",
+"test2": "nodemon index.js"
+},
+"homepage": "https://github.com/OFC-YOVANI/HADES-BOT-OMEGA",
+"author": {
+"name": "OFC-YOVANI"
+},
+"repository": {
+ "type": "git",
+"url": "git+https://github.com/OFC-YOVANI/HADES-BOT-OMEGA.git"
+},
+"bugs": {
+"url": "https://github.com/OFC-YOVANI/HADES-BOT-OMEGA/issues"
+},
     "license": "GPL-3.0-or-later",
     "dependencies": {
         "@adiwajshing/baileys": "npm:@jcteh8885/baileys@1.0.6",
