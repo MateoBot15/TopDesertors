@@ -107,7 +107,7 @@ getMessage: async (key) => {
 if (store) {
 const msg = await store.loadMessage(key.remoteJid, key.id)
 return msg.message || undefined }
-return { conversation: "hello, i'm OFC-YOVANI" }},   
+return { conversation: "hello, i'm 𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭" }},   
 msgRetryCounterMap,
 logger: pino({ level: 'silent' }),
 auth: state,
